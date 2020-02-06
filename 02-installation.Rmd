@@ -1,0 +1,51 @@
+# Getting set up
+
+Follow these steps to install R and RStudio ahead of the workshop:
+
+## Install R
+
+**R for Windows**
+
+* Go to https://cran.rstudio.com/
+
+* Click the **Download R for Windows** link.
+
+* Click the **base** link.
+
+* Click on the download link at the top of the page. This saves an installation
+file to your PC.
+
+* Open the installation file, and follow the instructions.
+
+**R for MacOS**
+
+* Go to https://cran.rstudio.com/
+
+* Click on the **Download R for (Mac) OS X** link.
+
+* Under **Latest release**, there should be a link to an installation file. The 
+latest release as of writing is R 3.6.2, so the link is called
+*R-3.6.2.pkg*. Click it.
+
+* Open the installation file, and follow the instructions.
+
+## Install Rstudio
+
+* Go to https://www.rstudio.com/products/rstudio/download/
+
+* Scroll down the page. Depending on your operating system, there should be a
+button saying either **Download RStudio for windows** or **Download RStudio for Mac OSX**.
+
+* Open the installation file, and follow the instructions.
+
+## If all else fails
+
+Installing R and RStudio to your computer should be fairly painless. However, if
+the steps above don't work, or if you're on a work computer without admin 
+rights, there is a viable option at https://rstudio.cloud/.
+
+This is an online version of R + RStudio, which can do pretty much anything that
+a local installation of RStudio can. You'll have to make a user account, or log
+into an existing Google or Github account. The service is free at the moment, 
+with a paid version planned for sometime in the future. If you're in a pinch at
+the workshop, and didn't manage to install the things, I recommend going here.

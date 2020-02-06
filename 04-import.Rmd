@@ -1,0 +1,20 @@
+# Data import
+
+## Tibbles vs. data frames
+
+## Delimited data
+
+* Comma separated files
+* read.csv vs read_csv
+* Column types
+* Guessing column types
+* Even zipped files work!
+
+## Reading excel files
+
+* readxl
+* Sheets
+
+## Communicating with bank.stat.gl
+
+* pxweb

@@ -1,0 +1,24 @@
+# Visualization
+
+## Grammar of Graphics
+
+## Syntax of ggplot2
+
+## Geoms
+
+## Aesthetic mappings
+
+## Layers
+
+## Facets
+
+## Scales
+
+## Themes
+
+## Examples
+
+* Scatter plot
+* Histograms
+* Boxplots & violins
+* Bar charts

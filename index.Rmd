@@ -1,0 +1,21 @@
+--- 
+title: "R Workshop Nuuk"
+author: "Emil Malta"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+description: "Course material for a workshop on data wrangling and exploration in R+RStudio"
+---
+
+# R Workshop Nuuk {-}
+
+This is (meant to be) a website collecting course material and exercises for a 
+series of workshops about R for data wrangling and analysis.
+
+The site is still in its very early phase, and most of the chapters only have 
+basic outlines for topics to be discussed. The hope is to provide a central hub
+for texts, exercises, links, etc.
+
+You're welcome to share the link with anyone, but expect things to change.

@@ -1,0 +1,21 @@
+# Statistical modeling
+
+I don't have the proper background or experience to be talking authoritatively
+about any kind of statistical modeling. Most of my work has been descrpiptive
+stats, along with making freq. tables and visualization.
+
+I'd like a basic introduction of statistical modeling though, with things like
+
+## Prediction error
+
+* Type I/II
+* Training vs. test data
+
+## Methods
+
+* K nearest neighbours
+* Linear Regression
+* Ridge/lasso elastic net regression
+* Classification/regression trees
+* Random forests
+* Support vector machines

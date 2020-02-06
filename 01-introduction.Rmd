@@ -1,0 +1,36 @@
+# Introduction
+
+## What is R?
+
+R is an open source programming language, designed for statistical computing and
+data analysis. Anyone can download it for free, and it's available on every 
+major platform (PC, Mac, Linux).
+
+Unlike other analysis tools like Microsoft Excel and SPSS, the method of interaction with R
+is through a command line interface. Instead of pointing and clicking through
+tables and menus, you instead perform actions by providing lines of code to a console.
+While this can be intimidating at first, it comes with many benefits. If you save
+the lines of code you wrote to a file, you have a very effective documentation
+of the workflow during data analysis. This code is easy to share, and easy to replicate
+for yourself and your peers.
+
+You can also extend the functionality of R by installing additional packages, 
+providing functions used for efficient data wrangling, visualization, implementation
+of statistical learning methods, etc. There is a central R package repository CRAN,
+which has thousands of such packages.
+
+Perhaps the strongest aspect of the R programming language is the community 
+surrounding it. R is a very popular language with users in disciplines such
+as finance, education, natural and social sciences, etc. Any specific questions
+you have about R, are usually already answered by some friendly R nerd online. There is
+also a vibrant online community. I highly recommend following the #rstats hashtag
+on twitter, and checking out R-ladies; an organization promoting gender diveristy in the
+R community.
+
+## What is RStudio?
+
+RStudio is an integrated development environment (IDE) for R
+
+## What is the tidyverse?
+
+Tidyverse is a large collection of R packages, that  

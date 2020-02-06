@@ -1,0 +1,17 @@
+# Data wrangling
+
+## dplyr
+
+## filter()
+
+## arrange()
+
+## select()
+
+## mutate()
+
+## summarise()
+
+## group_by()
+
+## %>%

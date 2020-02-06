@@ -1,0 +1,64 @@
+# Basics and data types
+
+This chapter is meant as a basic introduction to R and RStudio, 
+
+## Navigating RStudio
+
+* The window panes
+* Change appearance (colors, margin)
+* Working directories
+* Keyboard shortcuts 
+
+## R as a calculator
+
+* Obligatory section on R as a calculator
+
+## Objects
+
+* Assignment
+
+## Classes
+
+* Numerics
+* Integers vs. doubles
+* Characters
+* Factors
+* Logicals
+
+## Data Structures
+
+* Vectors
+* Matrices
+* Lists
+
+## Data frames
+
+* In-data example datasets
+* Making datasets by hand
+
+## Functions
+
+* class()
+* median()
+* mean()
+* str()
+* sum()
+* min()
+* sd()
+
+## Loading packages
+
+* CRAN
+* Tidyverse
+* github packages (statgl)
+
+## How to get help
+
+* ?
+* Stackoverflow
+
+**Remember**
+It's hard to break stuff. Unless you specifically ask R to overwrite files,
+you're not changing the underlying files as you go. Using a function on a
+data frame in R only changes the table that you have in memory, not the file 
+itself.
